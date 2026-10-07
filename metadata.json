@@ -1,0 +1,11 @@
+{
+  "name": "SubLive AI - Live Subtitle Translator",
+  "description": "Real-time bilingual subtitle translation for live audio, tab streams, and meetings powered by Google AI Studio and Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
